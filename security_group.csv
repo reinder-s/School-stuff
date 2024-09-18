@@ -1,0 +1,5 @@
+﻿name,path,scope,category,description
+Beta,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",Global,Security,
+Charlie,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",Global,Security,
+Delta,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Global,Security,
+Echo,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Global,Security,

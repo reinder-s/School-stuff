@@ -1,0 +1,21 @@
+﻿SamAccountName,password,path,GivenName,Surname,Name,DisplayName,GroupName
+foxtrot,&4l13#kL,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",Foxtrot,Lock,Foxtrot Lock,Foxtrot Lock,Beta
+golf,&4l13#kL,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",Golf,Lock,Golf Lock,Golf Lock,Beta
+hotel,&4l13#kL,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",Hotel,Lock,Hotel Lock,Hotel Lock,Beta
+india,&4l13#kL,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",India,Lock,India Lock,India Lock,Beta
+juliett,&4l13#kL,"OU=Beta,OU=Alfa,DC=powershell,DC=dc",Juliett,Lock,Juliett Lock,Juliett Lock,Beta
+kilo,&4l13#kL,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",Kilo,Lock,Kilo Lock,Kilo Lock,Charlie
+lima,&4l13#kL,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",Lima,Lock,Lima Lock,Lima Lock,Charlie
+mike,&4l13#kL,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",Mike,Lock,Mike Lock,Mike Lock,Charlie
+november,&4l13#kL,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",November,Lock,November Lock,November Lock,Charlie
+oscar,&4l13#kL,"OU=Charlie,OU=Alfa,DC=powershell,DC=dc",Oscar,Lock,Oscar Lock,Oscar Lock,Charlie
+papa,&4l13#kL,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Papa,Lock,Papa Lock,Papa Lock,Delta
+quebec,&4l13#kL,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Quebec,Lock,Quebec Lock,Quebec Lock,Delta
+romeo,&4l13#kL,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Romeo,Lock,Romeo Lock,Romeo Lock,Delta
+sierra,&4l13#kL,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Sierra,Lock,Sierra Lock,Sierra Lock,Delta
+tango,&4l13#kL,"OU=Delta,OU=Alfa,DC=powershell,DC=dc",Tango,Lock,Tango Lock,Tango Lock,Delta
+uniform,&4l13#kL,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Uniform,Lock,Uniform Lock,Uniform Lock,Echo
+victor,&4l13#kL,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Victor,Lock,Victor Lock,Victor Lock,Echo
+whiskey,&4l13#kL,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Whiskey,Lock,Whiskey Lock,Whiskey Lock,Echo
+xray,&4l13#kL,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Xray,Lock,Xray Lock,Xray Lock,Echo
+yankee,&4l13#kL,"OU=Echo,OU=Alfa,DC=powershell,DC=dc",Yankee,Lock,Yankee Lock,Yankee Lock,Echo
